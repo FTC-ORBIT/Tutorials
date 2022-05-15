@@ -11,7 +11,7 @@ Initializes a git repository – creates the initial .git directory in a new or 
 
 `git init`
 
-`Initialized empty Git repository in /home/customer/GIT/.git/ `
+_Initialized empty Git repository in /home/customer/GIT/.git/_
 
 - git clone
 Creates a GIT repository copy from a remote source. Also adds the original location as a remote so you can fetch from it again and push to it if you have permissions. Example:
@@ -40,11 +40,11 @@ Shows you the status of files in the index versus the working directory. It will
 
 `git status`
  
- `On branch master 
+ _On branch master 
  Initial commit 
  Untracked files: 
  (use "git add <file>..." to include in what will be committed) #
- `
+ _
 
 - git branch
 Lists existing branches, including remote branches, if ‘-a’ is provided. Creates a new branch if a branch name is provided. Example:
@@ -86,7 +86,7 @@ Shows a listing of commits on a branch including the corresponding details. Exam
 
 `git log commit`
 
-`84f241e8a0d768fb37ff7ad40e294b61a99a0abe Author: User <user@domain.com> Date: Mon May 3 09:24:05 2010 +0300 first commit`
+_84f241e8a0d768fb37ff7ad40e294b61a99a0abe Author: User <user@domain.com> Date: Mon May 3 09:24:05 2010 +0300 first commit_
 
 - git diff
 Generates patch files or statistics of differences between paths or files in your git repository, or your index or your working directory. Example:
