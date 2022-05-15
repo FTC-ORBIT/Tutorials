@@ -63,7 +63,7 @@ Resets your index and working directory to the state of your last commit. Exampl
 `git reset --hard HEAD`
 
 # git tag
-Tags a specific commit with a simple, human-readable handle that never moves. Example:
+Tags a specific commit with a simple, human-readable comment that never moves. you can also tag an old comment by using git log and copying its SHA. Example:
 
 `git tag -a v1.0 -m 'this is version 1.0 tag'`
 
