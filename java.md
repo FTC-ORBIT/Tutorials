@@ -12,7 +12,7 @@ Java is a high-level, general-purpose, object-oriented, and secure programming l
 - High Performance: Java is an interpreted language. Java enables high performance with the use of the Just-In-Time compiler.
 - Distributed: Java also has networking facilities. It is designed for the distributed environment of the internet because it supports TCP/IP protocol. It can run over the internet. EJB and RMI are used to create a distributed system.
 - Multi-threaded: Java also supports multi-threading. It means to handle more than one job a time.
-- OOPs (Object Oriented Programming System)
+### OOPs (Object Oriented Programming System)
 - Object-oriented programming is a way of solving a complex problem by breaking them into a small sub-problem. An object is a real-world entity. It is easier to develop a program by using an object. In OOPs, we create programs using class and object in a structured manner.
 
 - Class: A class is a template or blueprint or prototype that defines data members and methods of an object. An object is the instance of the class. We can define a class by using the class keyword.
