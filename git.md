@@ -1,6 +1,10 @@
 
 # This is a brief explanation of all of the basic git commands:
 
+#what is git?
+git is an essential tool to unterstand, we use git in order to save and do staff with our code localy, it is the version control software and it is what makes it as crucial as it is
+
+
 # git config
 Sets configuration values for your user name, email, gpg key, preferred diff algorithm, file formats and more. Examples:
 
