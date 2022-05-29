@@ -2,9 +2,41 @@
 # This is a brief explanation of all of the basic git commands:
 
 # what is git?
-git is an essential tool to unterstand, we use git in order to save and do staff with our code localy, it is the version control software and it is what makes it as crucial as it is
+git is an essential tool to unterstand, we use git in order to save and do staff with our code localy, it is the version control software and it is what makes it as crucial as it is. in the following toturial you will learn all the basic commands of git and the way it helps us as a programmers.
 
 
+# git commit
+Takes all of the changes written in the index, creates a new commit object pointing to it and sets the branch to point to that new commit. Examples:
+
+`git commit -m ‘committing added changes’`
+
+`git commit -a -m ‘committing all changes, equals to git add and git commit’`
+
+
+# git clone
+Creates a GIT repository copy from a remote source. Also adds the original location as a remote so you can fetch from it again and push to it if you have permissions. Example:
+
+`git clone git@github.com:user/test.git `
+
+
+# git add
+Adds files changes in your working directory to your index. Example:
+
+`git add . `
+
+
+# git status
+Shows you the status of files in the index versus the working directory. It will list out files that are untracked (only in your working directory), modified (tracked but not yet updated in your index), and staged (added to your index and ready for committing). Example:
+
+`git status`
+ 
+ _On branch master 
+ Initial commit 
+ Untracked files: 
+ (use "git add <file>..." to include in what will be committed) #
+ _
+ 
+ 
 # git config
 Sets configuration values for your user name, email, gpg key, preferred diff algorithm, file formats and more. Examples:
 
@@ -18,38 +50,11 @@ Initializes a git repository – creates the initial .git directory in a new or 
 
 _Initialized empty Git repository in /home/customer/GIT/.git/_
 
-# git clone
-Creates a GIT repository copy from a remote source. Also adds the original location as a remote so you can fetch from it again and push to it if you have permissions. Example:
-
-`git clone git@github.com:user/test.git `
-
-# git add
-Adds files changes in your working directory to your index. Example:
-
-`git add . `
 
 # git rm
 Removes files from your index and your working directory so they will not be tracked. Example:
 
 `git rm filename`
-
-# git commit
-Takes all of the changes written in the index, creates a new commit object pointing to it and sets the branch to point to that new commit. Examples:
-
-`git commit -m ‘committing added changes’`
-
-`git commit -a -m ‘committing all changes, equals to git add and git commit’`
-
-# git status
-Shows you the status of files in the index versus the working directory. It will list out files that are untracked (only in your working directory), modified (tracked but not yet updated in your index), and staged (added to your index and ready for committing). Example:
-
-`git status`
- 
- _On branch master 
- Initial commit 
- Untracked files: 
- (use "git add <file>..." to include in what will be committed) #
- _
 
 # git branch
 Lists existing branches, including remote branches, if ‘-a’ is provided. Creates a new branch if a branch name is provided. Example:
