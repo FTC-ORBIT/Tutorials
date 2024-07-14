@@ -12,8 +12,10 @@ https://ftc-docs.firstinspires.org/en/latest/hardware_and_software_configuration
 
 Additionally, In the next page (which has its link right after this) you have an explanation of OpenCV's basics and 3 classes that I recommend to copy to your project so you can look at what your camera sees (make sure to copy them into 3 different classes):
 https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/b
+
 # Expanding on OpenCV (optional)
-If you want to learn more about how the computer vision works and want to expand your knowledge about it you can read about OpenCV on the official FTC OpenCV github project: https://github.com/OpenFTC/EasyOpenCV
+If you want to learn more about how the computer vision works and want to expand your knowledge about it you can read about OpenCV on the official FTC OpenCV github project: 
+https://github.com/OpenFTC/EasyOpenCV
 
 # VisionPortal
 Vision Portal is an expansion of OpenCV that makes the work with so much more comfortable and fun to look at with a lot of new features that are easy to work with.
