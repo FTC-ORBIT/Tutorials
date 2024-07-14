@@ -1,6 +1,6 @@
 # Tutorial for FTC OpenCV and VisionPortal
 
-This is a tutorial for working with your camera, from the first steps of setting it up all the way up to recognizing game pieces and April Tags.
+This is a tutorial for working with your camera, from the first steps of setting it up all the way up to recognizing game pieces and AprilTags.
 
 # Setting up the camera
 You can Learn how to learn how to connect your camera to the Control Hub and how to look at what it sees here:
@@ -36,4 +36,7 @@ if you'd like to try the code for yourselves you need to make a few changes afte
 - Change the rectangle's coordinates to be for your use (the first point is the top left and the second is the bottom right of your rectangle).
 If you want an easy way to see the rectangle (the 'rect' object is not visable in the camera stream), you can use the function 'Imgproc.rectangle()' to see the rectangles in your camera stream and thus make it easier to change them.
 - (Optional) You can make the output of the code an enum instead of a string if you want am easy usage of the output, especially if you are going to use it in other classes for the autonomus or other usages.
-  
+# AprilTags
+AprilTags are images that are similar to QR codes that are scattered across the field and could be very helpful for some tasks such as automatic straightening and letting the robot know exactly where it is in the field when in the auto period.
+There is a lot of resources about AprilTags here and in the sample codes of the SDK (in the FtcRobotController): 
+- [AprilTag Programming](https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html#apriltag-programming)
