@@ -29,6 +29,7 @@ https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/ec
 # VisionPortal Thresholding
 In this section we are going to look at a great usage of VisionPortal's functions in a code that could be in a team's project for doing the computer vision in the Autonomous period:
 https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/ed
+
 The general idea is to look at the 3 places that the prop could be in (in this code they look in the left and center, and if the prop is in neither of them it must be in the right) for the color red, and the place that has a higher red amount than a threshold that we placed would be where the red prop is located. For further explanations about the code you can more about it in its page.
 ### How to try the code for yourselves
 if you'd like to try the code for yourselves you need to make a few changes after copying the code to your project:
