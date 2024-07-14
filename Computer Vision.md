@@ -2,7 +2,7 @@
 
 This is a tutorial for working with your camera, from the first steps of setting it up all the way up to recognizing game pieces and AprilTags.
 
-# Setting up the camera
+# Setting up the camera + FTC OpenCV
 You can Learn how to learn how to connect your camera to the Control Hub and how to look at what it sees here:
 - [Setting up Camera](https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/a)
 
