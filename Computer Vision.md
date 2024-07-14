@@ -11,7 +11,6 @@ Guide for how to configure the camera and how to open the Camera Stream (don't u
 https://ftc-docs.firstinspires.org/en/latest/hardware_and_software_configuration/configuring/configuring_external_webcam/configuring-external-webcam.html
 
 Additionally, In the next page (which has its link right after this) you have an explanation of OpenCV's basics and 3 classes that I recommend to copy to your project so you can look at what your camera sees (make sure to copy them into 3 different classes):
-
 https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/b
 
 # Expanding on OpenCV (Optional)
@@ -22,7 +21,9 @@ https://github.com/OpenFTC/EasyOpenCV
 Vision Portal is an expansion of OpenCV that makes the work with so much more comfortable and fun to look at with a lot of new features that are easy to work with.
 Luckily for us, our good friend Tech Toolbox has us covered with a quick explanation of Vision Portal's addition s and some good sample classes for the basics of VisionPortal: 
 https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/ea
+
 https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/eb
+
 https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/ec
 
 # VisionPortal Thresholding
