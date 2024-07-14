@@ -3,9 +3,8 @@
 This is a tutorial for working with your camera, from the first steps of setting it up all the way up to recognizing game pieces and April Tags.
 
 # Setting up the camera
-
 You can Learn how to learn how to connect your camera to the Control Hub and how to look at what it sees here:
-https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/a
+- [Setting up Camera](https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/a)
 
 Guide for how to configure the camera and how to open the Camera Stream (don't use the sample OpMode):
 https://ftc-docs.firstinspires.org/en/latest/hardware_and_software_configuration/configuring/configuring_external_webcam/configuring-external-webcam.html
