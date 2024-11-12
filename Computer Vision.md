@@ -18,7 +18,7 @@ If you want to learn more about how the computer vision works and want to expand
 
 # VisionPortal
 Vision Portal is an expansion of OpenCV that makes the work with so much more comfortable and fun to look at with a lot of new features that are easy to work with.
-Luckily for us, our good friend Tech Toolbox has us covered with a quick explanation of Vision Portal's addition s and some good sample classes for the basics of VisionPortal: 
+Luckily for us, our good friend Tech Toolbox has us covered with a quick explanation of Vision Portal's additions and some good sample classes for the basics of VisionPortal: 
 - [Intro to VisionPortal](https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/ea)
 
 - [VisionProcessor](https://ftc-tech-toolbox.vercel.app/docs/Computer%20Vision/eb)
